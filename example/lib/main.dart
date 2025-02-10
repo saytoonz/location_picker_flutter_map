@@ -40,6 +40,7 @@ class MyApp extends StatelessWidget {
             print(pickedData.addressData);
           },
           showContributorBadgeForOSM: true,
+          countryFilter: 'gh',
         ),
       ),
     );

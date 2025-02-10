@@ -18,7 +18,7 @@ import 'widgets/wide_button.dart';
 
 /// Principal widget to show Flutter map using osm api with pick up location marker and search bar.
 /// you can track you current location, search for a location and select it.
-/// navigate easily in the map to selecte location.
+/// navigate easily in the map to select location.
 
 class FlutterLocationPicker extends StatefulWidget {
   /// [onPicked] : (callback) is trigger when you clicked on select location,return current [PickedData] of the Marker
